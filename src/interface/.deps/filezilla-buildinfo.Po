@@ -1,0 +1,6 @@
+filezilla-buildinfo.o: buildinfo.cpp buildinfo.h \
+ C:/tmp/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/6.1.0/include/cpuid.h
+
+buildinfo.h:
+
+C:/tmp/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/6.1.0/include/cpuid.h:

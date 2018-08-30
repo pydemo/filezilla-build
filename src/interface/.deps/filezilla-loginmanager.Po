@@ -1,0 +1,18 @@
+filezilla-loginmanager.o: loginmanager.cpp loginmanager.h dialogex.h \
+ wrapengine.h filezillaapp.h C:/tmp/msys64/mingw64/include/c++/6.1.0/list \
+ ../../src/include/local_path.h \
+ C:/tmp/msys64/mingw64/include/c++/6.1.0/algorithm
+
+loginmanager.h:
+
+dialogex.h:
+
+wrapengine.h:
+
+filezillaapp.h:
+
+C:/tmp/msys64/mingw64/include/c++/6.1.0/list:
+
+../../src/include/local_path.h:
+
+C:/tmp/msys64/mingw64/include/c++/6.1.0/algorithm:

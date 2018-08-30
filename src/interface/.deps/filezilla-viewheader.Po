@@ -1,0 +1,138 @@
+filezilla-viewheader.o: viewheader.cpp viewheader.h state.h \
+ ../../src/include/local_path.h sitemanager.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/treectrl.h \
+ xmlfunctions.h ../pugixml/pugixml.hpp ../pugixml/pugiconfig.hpp \
+ C:/tmp/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/6.1.0/include/stddef.h \
+ C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/stddef.h \
+ C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
+ C:/tmp/msys64/mingw64/include/c++/6.1.0/iterator \
+ C:/tmp/msys64/mingw64/include/c++/6.1.0/iosfwd \
+ C:/tmp/msys64/mingw64/include/c++/6.1.0/string \
+ C:/tmp/msys64/mingw64/include/c++/6.1.0/memory commandqueue.h graphics.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/rawbmp.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/defs.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/image.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/bitmap.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/window.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/msw/uxtheme.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/msw/private.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/msw/wrapwin.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/log.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/gdicmn.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/colour.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/msw/uxthemep.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/msw/wrapcctl.h \
+ C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/commctrl.h \
+ C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/winapifamily.h \
+ C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/_mingw_unicode.h \
+ C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/prsht.h \
+ C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/pshpack1.h \
+ C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/poppack.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/msw/missing.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/dynlib.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/string.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/dynarray.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/combobox.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/textctrl.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/ctrlsub.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/textentry.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/msw/combobox.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/choice.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/dcclient.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/dc.h
+
+viewheader.h:
+
+state.h:
+
+../../src/include/local_path.h:
+
+sitemanager.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/treectrl.h:
+
+xmlfunctions.h:
+
+../pugixml/pugixml.hpp:
+
+../pugixml/pugiconfig.hpp:
+
+C:/tmp/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/6.1.0/include/stddef.h:
+
+C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/stddef.h:
+
+C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/crtdefs.h:
+
+C:/tmp/msys64/mingw64/include/c++/6.1.0/iterator:
+
+C:/tmp/msys64/mingw64/include/c++/6.1.0/iosfwd:
+
+C:/tmp/msys64/mingw64/include/c++/6.1.0/string:
+
+C:/tmp/msys64/mingw64/include/c++/6.1.0/memory:
+
+commandqueue.h:
+
+graphics.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/rawbmp.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/defs.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/image.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/bitmap.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/window.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/msw/uxtheme.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/msw/private.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/msw/wrapwin.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/log.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/gdicmn.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/colour.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/msw/uxthemep.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/msw/wrapcctl.h:
+
+C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/commctrl.h:
+
+C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/winapifamily.h:
+
+C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/_mingw_unicode.h:
+
+C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/prsht.h:
+
+C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/pshpack1.h:
+
+C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/poppack.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/msw/missing.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/dynlib.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/string.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/dynarray.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/combobox.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/textctrl.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/ctrlsub.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/textentry.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/msw/combobox.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/choice.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/dcclient.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/dc.h:

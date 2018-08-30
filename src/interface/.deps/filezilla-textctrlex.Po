@@ -1,0 +1,6 @@
+filezilla-textctrlex.o: textctrlex.cpp textctrlex.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/textctrl.h
+
+textctrlex.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/textctrl.h:

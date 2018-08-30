@@ -1,0 +1,34 @@
+fzsftp-int64.o: int64.c \
+ C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/assert.h \
+ C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
+ C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/_mingw.h \
+ C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
+ C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+ C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/vadefs.h \
+ C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_directx.h \
+ C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+ C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/string.h \
+ C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h \
+ int64.h
+
+C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/assert.h:
+
+C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/crtdefs.h:
+
+C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/_mingw.h:
+
+C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h:
+
+C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h:
+
+C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/vadefs.h:
+
+C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_directx.h:
+
+C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h:
+
+C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/string.h:
+
+C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h:
+
+int64.h:

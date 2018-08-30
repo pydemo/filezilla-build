@@ -1,0 +1,41 @@
+filezilla-led.o: led.cpp led.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/event.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/timer.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/defs.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/object.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/longlong.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/stopwatch.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/time.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/utils.h \
+ filezillaapp.h C:/tmp/msys64/mingw64/include/c++/6.1.0/list \
+ ../../src/include/local_path.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/dcclient.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/dc.h
+
+led.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/event.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/timer.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/defs.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/object.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/longlong.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/stopwatch.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/time.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/utils.h:
+
+filezillaapp.h:
+
+C:/tmp/msys64/mingw64/include/c++/6.1.0/list:
+
+../../src/include/local_path.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/dcclient.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/dc.h:

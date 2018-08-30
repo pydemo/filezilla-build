@@ -1,0 +1,141 @@
+filezilla-aui_notebook_ex.o: aui_notebook_ex.cpp \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/aui/aui.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/aui/framemanager.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/defs.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/dynarray.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/gdicmn.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/window.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/timer.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/object.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/longlong.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/event.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/stopwatch.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/time.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/utils.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/sizer.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/bitmap.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/aui/dockart.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/pen.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/brush.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/colour.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/aui/floatpane.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/weakref.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/minifram.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/msw/minifram.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/frame.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/aui/auibar.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/control.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/aui/barartmsw.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/aui/auibook.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/aui/tabart.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/font.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/aui/tabartmsw.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/bookctrl.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/containr.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/aui/tabmdi.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/panel.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/notebook.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/icon.h \
+ aui_notebook_ex.h C:/tmp/msys64/mingw64/include/c++/6.1.0/map \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/dcmirror.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/dc.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/graphics.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/affinematrix2d.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/geometry.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/image.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/vector.h \
+ C:/tmp/msys64/mingw64/include/c++/6.1.0/memory
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/aui/aui.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/aui/framemanager.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/defs.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/dynarray.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/gdicmn.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/window.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/timer.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/object.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/longlong.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/event.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/stopwatch.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/time.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/utils.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/sizer.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/bitmap.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/aui/dockart.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/pen.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/brush.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/colour.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/aui/floatpane.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/weakref.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/minifram.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/msw/minifram.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/frame.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/aui/auibar.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/control.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/aui/barartmsw.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/aui/auibook.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/aui/tabart.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/font.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/aui/tabartmsw.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/bookctrl.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/containr.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/aui/tabmdi.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/panel.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/notebook.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/icon.h:
+
+aui_notebook_ex.h:
+
+C:/tmp/msys64/mingw64/include/c++/6.1.0/map:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/dcmirror.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/dc.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/graphics.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/affinematrix2d.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/geometry.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/image.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/vector.h:
+
+C:/tmp/msys64/mingw64/include/c++/6.1.0/memory:

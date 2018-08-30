@@ -1,0 +1,43 @@
+filezilla-view.o: view.cpp view.h viewheader.h state.h \
+ ../../src/include/local_path.h sitemanager.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/treectrl.h \
+ xmlfunctions.h ../pugixml/pugixml.hpp ../pugixml/pugiconfig.hpp \
+ C:/tmp/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/6.1.0/include/stddef.h \
+ C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/stddef.h \
+ C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
+ C:/tmp/msys64/mingw64/include/c++/6.1.0/iterator \
+ C:/tmp/msys64/mingw64/include/c++/6.1.0/iosfwd \
+ C:/tmp/msys64/mingw64/include/c++/6.1.0/string \
+ C:/tmp/msys64/mingw64/include/c++/6.1.0/memory
+
+view.h:
+
+viewheader.h:
+
+state.h:
+
+../../src/include/local_path.h:
+
+sitemanager.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/treectrl.h:
+
+xmlfunctions.h:
+
+../pugixml/pugixml.hpp:
+
+../pugixml/pugiconfig.hpp:
+
+C:/tmp/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/6.1.0/include/stddef.h:
+
+C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/stddef.h:
+
+C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/crtdefs.h:
+
+C:/tmp/msys64/mingw64/include/c++/6.1.0/iterator:
+
+C:/tmp/msys64/mingw64/include/c++/6.1.0/iosfwd:
+
+C:/tmp/msys64/mingw64/include/c++/6.1.0/string:
+
+C:/tmp/msys64/mingw64/include/c++/6.1.0/memory:

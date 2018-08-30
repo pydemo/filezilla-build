@@ -1,0 +1,15 @@
+filezilla-xh_text_ex.o: xh_text_ex.cpp textctrlex.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/textctrl.h \
+ xh_text_ex.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/xrc/xh_text.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/xrc/xmlres.h
+
+textctrlex.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/textctrl.h:
+
+xh_text_ex.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/xrc/xh_text.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/xrc/xmlres.h:

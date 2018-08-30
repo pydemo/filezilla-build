@@ -1,0 +1,15 @@
+filezilla-volume_enumerator.o: volume_enumerator.cpp volume_enumerator.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/libfilezilla/thread.hpp \
+ C:/tmp/msys64/mingw64/include/c++/6.1.0/list \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/msw/registry.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/defs.h
+
+volume_enumerator.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/libfilezilla/thread.hpp:
+
+C:/tmp/msys64/mingw64/include/c++/6.1.0/list:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/msw/registry.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/defs.h:

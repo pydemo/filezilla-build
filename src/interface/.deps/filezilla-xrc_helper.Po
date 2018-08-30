@@ -1,0 +1,90 @@
+filezilla-xrc_helper.o: xrc_helper.cpp xrc_helper.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/xrc/xh_animatctrl.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/xrc/xmlres.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/xrc/xh_bmpbt.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/xrc/xh_bttn.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/xrc/xh_chckb.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/xrc/xh_chckl.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/xrc/xh_choic.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/xrc/xh_dlg.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/xrc/xh_gauge.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/xrc/xh_listb.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/xrc/xh_listc.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/xrc/xh_menu.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/xrc/xh_notbk.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/xrc/xh_panel.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/xrc/xh_radbt.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/xrc/xh_scwin.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/xrc/xh_sizer.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/sizer.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/gbsizer.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/xrc/xh_spin.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/xrc/xh_stbmp.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/xrc/xh_stbox.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/xrc/xh_stlin.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/xrc/xh_sttxt.h \
+ xh_text_ex.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/xrc/xh_text.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/xrc/xh_tree.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/xrc/xh_hyperlink.h \
+ xh_toolb_ex.h
+
+xrc_helper.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/xrc/xh_animatctrl.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/xrc/xmlres.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/xrc/xh_bmpbt.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/xrc/xh_bttn.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/xrc/xh_chckb.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/xrc/xh_chckl.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/xrc/xh_choic.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/xrc/xh_dlg.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/xrc/xh_gauge.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/xrc/xh_listb.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/xrc/xh_listc.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/xrc/xh_menu.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/xrc/xh_notbk.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/xrc/xh_panel.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/xrc/xh_radbt.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/xrc/xh_scwin.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/xrc/xh_sizer.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/sizer.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/gbsizer.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/xrc/xh_spin.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/xrc/xh_stbmp.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/xrc/xh_stbox.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/xrc/xh_stlin.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/xrc/xh_sttxt.h:
+
+xh_text_ex.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/xrc/xh_text.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/xrc/xh_tree.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/xrc/xh_hyperlink.h:
+
+xh_toolb_ex.h:

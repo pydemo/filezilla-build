@@ -1,0 +1,216 @@
+filezilla-sitemanager_dialog.o: sitemanager_dialog.cpp \
+ sitemanager_dialog.h dialogex.h wrapengine.h sitemanager.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/treectrl.h \
+ xmlfunctions.h ../pugixml/pugixml.hpp ../pugixml/pugiconfig.hpp \
+ C:/tmp/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/6.1.0/include/stddef.h \
+ C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/stddef.h \
+ C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
+ C:/tmp/msys64/mingw64/include/c++/6.1.0/iterator \
+ C:/tmp/msys64/mingw64/include/c++/6.1.0/iosfwd \
+ C:/tmp/msys64/mingw64/include/c++/6.1.0/string buildinfo.h \
+ conditionaldialog.h drop_target_ex.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/dnd.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/defs.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/dataobj.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/cursor.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/msw/ole/dropsrc.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/msw/ole/droptgt.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/timer.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/object.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/longlong.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/event.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/stopwatch.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/time.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/utils.h \
+ filezillaapp.h C:/tmp/msys64/mingw64/include/c++/6.1.0/list \
+ ../../src/include/local_path.h ipcmutex.h Options.h \
+ ../../src/include/option_change_event_handler.h \
+ C:/tmp/msys64/mingw64/include/c++/6.1.0/bitset \
+ C:/tmp/msys64/mingw64/include/c++/6.1.0/bits/functexcept.h \
+ C:/tmp/msys64/mingw64/include/c++/6.1.0/bits/cxxabi_forced.h \
+ C:/tmp/msys64/mingw64/include/c++/6.1.0/bits/functional_hash.h \
+ C:/tmp/msys64/mingw64/include/c++/6.1.0/set \
+ C:/tmp/msys64/mingw64/include/c++/6.1.0/bits/stl_tree.h \
+ C:/tmp/msys64/mingw64/include/c++/6.1.0/bits/stl_set.h \
+ C:/tmp/msys64/mingw64/include/c++/6.1.0/bits/concept_check.h \
+ C:/tmp/msys64/mingw64/include/c++/6.1.0/initializer_list \
+ C:/tmp/msys64/mingw64/include/c++/6.1.0/bits/stl_multiset.h \
+ C:/tmp/msys64/mingw64/include/c++/6.1.0/bits/range_access.h \
+ C:/tmp/msys64/mingw64/include/c++/6.1.0/vector \
+ C:/tmp/msys64/home/alex_buz/prefix/include/libfilezilla/mutex.hpp \
+ themeprovider.h C:/tmp/msys64/mingw64/include/c++/6.1.0/memory \
+ treectrlex.h filelistctrl.h listctrlex.h systemimagelist.h \
+ C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/shellapi.h \
+ C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/winapifamily.h \
+ C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/commctrl.h \
+ C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/_mingw_unicode.h \
+ C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/prsht.h \
+ C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/pshpack1.h \
+ C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/poppack.h \
+ listingcomparison.h C:/tmp/msys64/mingw64/include/c++/6.1.0/cstring \
+ C:/tmp/msys64/mingw64/include/c++/6.1.0/x86_64-w64-mingw32/bits/c++config.h \
+ C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/string.h \
+ window_state_manager.h fzputtygen_interface.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/process.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/stream.h \
+ xrc_helper.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/dcclient.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/dc.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/file.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/gbsizer.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/sizer.h \
+ C:/tmp/msys64/mingw64/include/c++/6.1.0/algorithm
+
+sitemanager_dialog.h:
+
+dialogex.h:
+
+wrapengine.h:
+
+sitemanager.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/treectrl.h:
+
+xmlfunctions.h:
+
+../pugixml/pugixml.hpp:
+
+../pugixml/pugiconfig.hpp:
+
+C:/tmp/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/6.1.0/include/stddef.h:
+
+C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/stddef.h:
+
+C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/crtdefs.h:
+
+C:/tmp/msys64/mingw64/include/c++/6.1.0/iterator:
+
+C:/tmp/msys64/mingw64/include/c++/6.1.0/iosfwd:
+
+C:/tmp/msys64/mingw64/include/c++/6.1.0/string:
+
+buildinfo.h:
+
+conditionaldialog.h:
+
+drop_target_ex.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/dnd.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/defs.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/dataobj.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/cursor.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/msw/ole/dropsrc.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/msw/ole/droptgt.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/timer.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/object.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/longlong.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/event.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/stopwatch.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/time.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/utils.h:
+
+filezillaapp.h:
+
+C:/tmp/msys64/mingw64/include/c++/6.1.0/list:
+
+../../src/include/local_path.h:
+
+ipcmutex.h:
+
+Options.h:
+
+../../src/include/option_change_event_handler.h:
+
+C:/tmp/msys64/mingw64/include/c++/6.1.0/bitset:
+
+C:/tmp/msys64/mingw64/include/c++/6.1.0/bits/functexcept.h:
+
+C:/tmp/msys64/mingw64/include/c++/6.1.0/bits/cxxabi_forced.h:
+
+C:/tmp/msys64/mingw64/include/c++/6.1.0/bits/functional_hash.h:
+
+C:/tmp/msys64/mingw64/include/c++/6.1.0/set:
+
+C:/tmp/msys64/mingw64/include/c++/6.1.0/bits/stl_tree.h:
+
+C:/tmp/msys64/mingw64/include/c++/6.1.0/bits/stl_set.h:
+
+C:/tmp/msys64/mingw64/include/c++/6.1.0/bits/concept_check.h:
+
+C:/tmp/msys64/mingw64/include/c++/6.1.0/initializer_list:
+
+C:/tmp/msys64/mingw64/include/c++/6.1.0/bits/stl_multiset.h:
+
+C:/tmp/msys64/mingw64/include/c++/6.1.0/bits/range_access.h:
+
+C:/tmp/msys64/mingw64/include/c++/6.1.0/vector:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/libfilezilla/mutex.hpp:
+
+themeprovider.h:
+
+C:/tmp/msys64/mingw64/include/c++/6.1.0/memory:
+
+treectrlex.h:
+
+filelistctrl.h:
+
+listctrlex.h:
+
+systemimagelist.h:
+
+C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/shellapi.h:
+
+C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/winapifamily.h:
+
+C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/commctrl.h:
+
+C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/_mingw_unicode.h:
+
+C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/prsht.h:
+
+C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/pshpack1.h:
+
+C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/poppack.h:
+
+listingcomparison.h:
+
+C:/tmp/msys64/mingw64/include/c++/6.1.0/cstring:
+
+C:/tmp/msys64/mingw64/include/c++/6.1.0/x86_64-w64-mingw32/bits/c++config.h:
+
+C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/string.h:
+
+window_state_manager.h:
+
+fzputtygen_interface.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/process.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/stream.h:
+
+xrc_helper.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/dcclient.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/dc.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/file.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/gbsizer.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/sizer.h:
+
+C:/tmp/msys64/mingw64/include/c++/6.1.0/algorithm:

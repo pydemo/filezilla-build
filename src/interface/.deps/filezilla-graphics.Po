@@ -1,0 +1,18 @@
+filezilla-graphics.o: graphics.cpp graphics.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/rawbmp.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/defs.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/image.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/bitmap.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/window.h
+
+graphics.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/rawbmp.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/defs.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/image.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/bitmap.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/window.h:

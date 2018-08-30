@@ -1,0 +1,18 @@
+filezilla-cmdline.o: cmdline.cpp cmdline.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/cmdline.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/defs.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/string.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/arrstr.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/cmdargs.h
+
+cmdline.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/cmdline.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/defs.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/string.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/arrstr.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/cmdargs.h:

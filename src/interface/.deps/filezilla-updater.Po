@@ -1,0 +1,157 @@
+filezilla-updater.o: updater.cpp buildinfo.h updater.h \
+ ../../src/include/notification.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/timer.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/defs.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/object.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/longlong.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/event.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/stopwatch.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/time.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/utils.h Options.h \
+ ../../src/include/local_path.h \
+ ../../src/include/option_change_event_handler.h \
+ C:/tmp/msys64/mingw64/include/c++/6.1.0/bitset \
+ C:/tmp/msys64/mingw64/include/c++/6.1.0/string \
+ C:/tmp/msys64/mingw64/include/c++/6.1.0/bits/functexcept.h \
+ C:/tmp/msys64/mingw64/include/c++/6.1.0/iosfwd \
+ C:/tmp/msys64/mingw64/include/c++/6.1.0/bits/cxxabi_forced.h \
+ C:/tmp/msys64/mingw64/include/c++/6.1.0/bits/functional_hash.h \
+ C:/tmp/msys64/mingw64/include/c++/6.1.0/set \
+ C:/tmp/msys64/mingw64/include/c++/6.1.0/bits/stl_tree.h \
+ C:/tmp/msys64/mingw64/include/c++/6.1.0/bits/stl_set.h \
+ C:/tmp/msys64/mingw64/include/c++/6.1.0/bits/concept_check.h \
+ C:/tmp/msys64/mingw64/include/c++/6.1.0/initializer_list \
+ C:/tmp/msys64/mingw64/include/c++/6.1.0/bits/stl_multiset.h \
+ C:/tmp/msys64/mingw64/include/c++/6.1.0/bits/range_access.h \
+ C:/tmp/msys64/mingw64/include/c++/6.1.0/vector \
+ C:/tmp/msys64/home/alex_buz/prefix/include/libfilezilla/mutex.hpp \
+ xmlfunctions.h ../pugixml/pugixml.hpp ../pugixml/pugiconfig.hpp \
+ C:/tmp/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/6.1.0/include/stddef.h \
+ C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/stddef.h \
+ C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
+ C:/tmp/msys64/mingw64/include/c++/6.1.0/iterator file_utils.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/libfilezilla/recursive_remove.hpp \
+ C:/tmp/msys64/home/alex_buz/prefix/include/libfilezilla/libfilezilla.hpp \
+ C:/tmp/msys64/home/alex_buz/prefix/include/libfilezilla/private/windows.hpp \
+ C:/tmp/msys64/mingw64/include/c++/6.1.0/list \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/base64.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/string.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/buffer.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/tokenzr.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/arrstr.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/msw/registry.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/libfilezilla/file.hpp \
+ C:/tmp/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/6.1.0/include/stdint.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/libfilezilla/local_filesys.hpp \
+ C:/tmp/msys64/home/alex_buz/prefix/include/libfilezilla/time.hpp \
+ C:/tmp/msys64/home/alex_buz/prefix/include/nettle/sha2.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/nettle/nettle-types.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/nettle/nettle-stdint.h
+
+buildinfo.h:
+
+updater.h:
+
+../../src/include/notification.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/timer.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/defs.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/object.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/longlong.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/event.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/stopwatch.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/time.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/utils.h:
+
+Options.h:
+
+../../src/include/local_path.h:
+
+../../src/include/option_change_event_handler.h:
+
+C:/tmp/msys64/mingw64/include/c++/6.1.0/bitset:
+
+C:/tmp/msys64/mingw64/include/c++/6.1.0/string:
+
+C:/tmp/msys64/mingw64/include/c++/6.1.0/bits/functexcept.h:
+
+C:/tmp/msys64/mingw64/include/c++/6.1.0/iosfwd:
+
+C:/tmp/msys64/mingw64/include/c++/6.1.0/bits/cxxabi_forced.h:
+
+C:/tmp/msys64/mingw64/include/c++/6.1.0/bits/functional_hash.h:
+
+C:/tmp/msys64/mingw64/include/c++/6.1.0/set:
+
+C:/tmp/msys64/mingw64/include/c++/6.1.0/bits/stl_tree.h:
+
+C:/tmp/msys64/mingw64/include/c++/6.1.0/bits/stl_set.h:
+
+C:/tmp/msys64/mingw64/include/c++/6.1.0/bits/concept_check.h:
+
+C:/tmp/msys64/mingw64/include/c++/6.1.0/initializer_list:
+
+C:/tmp/msys64/mingw64/include/c++/6.1.0/bits/stl_multiset.h:
+
+C:/tmp/msys64/mingw64/include/c++/6.1.0/bits/range_access.h:
+
+C:/tmp/msys64/mingw64/include/c++/6.1.0/vector:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/libfilezilla/mutex.hpp:
+
+xmlfunctions.h:
+
+../pugixml/pugixml.hpp:
+
+../pugixml/pugiconfig.hpp:
+
+C:/tmp/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/6.1.0/include/stddef.h:
+
+C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/stddef.h:
+
+C:/tmp/msys64/mingw64/x86_64-w64-mingw32/include/crtdefs.h:
+
+C:/tmp/msys64/mingw64/include/c++/6.1.0/iterator:
+
+file_utils.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/libfilezilla/recursive_remove.hpp:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/libfilezilla/libfilezilla.hpp:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/libfilezilla/private/windows.hpp:
+
+C:/tmp/msys64/mingw64/include/c++/6.1.0/list:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/base64.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/string.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/buffer.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/tokenzr.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/arrstr.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/msw/registry.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/libfilezilla/file.hpp:
+
+C:/tmp/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/6.1.0/include/stdint.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/libfilezilla/local_filesys.hpp:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/libfilezilla/time.hpp:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/nettle/sha2.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/nettle/nettle-types.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/nettle/nettle-stdint.h:

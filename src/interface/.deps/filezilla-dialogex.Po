@@ -1,0 +1,8 @@
+filezilla-dialogex.o: dialogex.cpp dialogex.h wrapengine.h \
+ ../../src/include/msgbox.h
+
+dialogex.h:
+
+wrapengine.h:
+
+../../src/include/msgbox.h:

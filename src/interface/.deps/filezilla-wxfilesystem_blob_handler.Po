@@ -1,0 +1,16 @@
+filezilla-wxfilesystem_blob_handler.o: wxfilesystem_blob_handler.cpp \
+ wxfilesystem_blob_handler.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/filesys.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/mstream.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/defs.h \
+ C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/stream.h
+
+wxfilesystem_blob_handler.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/filesys.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/mstream.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/defs.h:
+
+C:/tmp/msys64/home/alex_buz/prefix/include/wx-3.1/wx/stream.h:
